@@ -2,13 +2,21 @@
 
 
 The Dataset contains tables like 
+
                         * customers
+                        
                         * employeers
+                        
                         * offices 
+                        
                         * orderdetails 
+                        
                         * orders 
+                        
                         * payments 
+                        
                         * productlines 
+                        
                         * products 
                         
                         
